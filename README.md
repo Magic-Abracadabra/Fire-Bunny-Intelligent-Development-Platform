@@ -1,3 +1,4 @@
+Date of Certification: 06/26/2024.
 # Fire Bunny Intelligent Development Platform
 ## Introduction
 This is an Interactive High-Level Chinese Scripting Language focusing on Office Automation, Batch Processing, and Continuous Chatting; It supports the API provided by other scripting languages (e.g., Python, CMD or PowerShell) and it’s handy for customers to build their customized Chinese command (hence it’s called the magic spell)
