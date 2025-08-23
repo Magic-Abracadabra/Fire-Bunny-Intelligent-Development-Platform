@@ -3,7 +3,7 @@ Date of Certification: 06/26/2024.
 ## Introduction
 This is an Interactive High-Level Chinese Scripting Language focusing on Office Automation, Batch Processing, and Continuous Chatting; It supports the API provided by other scripting languages (e.g., Python, CMD or PowerShell) and it’s handy for customers to build their customized Chinese command (hence it’s called the magic spell)
 
-The Framework was founded successfully.
+A Very Basic Framework was founded successfully.
 
 ## Features
 1. It uses Chinese as the Scripting Language, focusing on Office Automation scenarios
