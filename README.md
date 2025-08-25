@@ -12,7 +12,7 @@ A Very Basic Framework was founded successfully.
 4. It can simulate easy user manipulation of other software
 5. No manual compilation is required
 
-# 引言
+# 火小兔智慧开发平台
 ## 平台功能与特色
 本平台代表了一种适用于自动化办公场景的中文脚本语言。本平台既可以通过“机关区”直接交互脚本，又可以用“火小兔”“机关区”打开中文命令脚本。自动化办公方面，目前已简单实现中文命令键鼠操作、一行简单命令打开指定应用程序、一行简单命令控制软件界面与系统等。程序结构方面，已有顺序结构、2种简单循环。
 
