@@ -10,7 +10,7 @@ Date of Certification: **06/26/2024**
 
 # 平台概述
 ## 使用本平台开发脚本
-1. [调试窗口](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)：直接双击“机关区”，进入界面之后就可以直接编写，调试，编辑，浏览，运行本平台命令；支持一行多个句子的命令，但不支持多行输入
+1. [调试窗口（演示）](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)：直接双击“机关区”，进入界面之后就可以直接编写，调试，编辑，浏览，运行本平台命令；支持一行多个句子的命令，但不支持多行输入
     * 当输入命令然后按回车时，执行用户输入的命令
     * 当输入内容不是本平台代码然后按回车时，默认与360智脑对话
     * 当输入内容不是本平台代码、网络环境差时按下回车，触发哭脸“【ToT】”
