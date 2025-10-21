@@ -147,7 +147,8 @@ QQ邮箱！
 补充知识：屏幕坐标系
 1. 屏幕坐标系的原点（0，0）在屏幕的最左上角
 
-<img width="262" height="263" alt="image" src="https://github.com/user-attachments/assets/080a8509-3674-4418-aff1-e5053824f502" />
+<img width="262" height="263" alt="image" src="https://github.com/user-attachments/assets/abbbb54c-e300-4b01-92ed-8b389b438db7" />
+
 
 2. 如图，从屏幕原点拉到鼠标位置，形成一个矩形，矩形的水平长度就是鼠标位置的横坐标，矩形的竖直长度就是鼠标位置的纵坐标，也就是说，第一个水平坐标轴的正方向是指向屏幕右方的，第二个竖直坐标轴的正方向却指向屏幕下方的（这也是研究平抛运动时经常采用的坐标系）。
 
