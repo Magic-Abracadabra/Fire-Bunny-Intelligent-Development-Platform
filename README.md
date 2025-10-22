@@ -4,7 +4,7 @@ Date of Certification: **06/26/2024**
 **No illegal use is allowed!** Free for commercial and academic applications.
 
 # 新手使用指南
-1. 仅需下载“机关区.exe”和“火小兔.exe”，将其移动到您常常把程序安装到的位置
+1. 仅需下载“机关区.exe”和“火小兔.exe”，将其移动到您常常把程序安装到的位置，比如“C:\Program Files”
 2. 使用方法一——打开“机关区.exe”，直接用本平台指定的中文高级语言交互
 3. 使用方法二
    a. 预备工作：下载“test.秘籍”，把它的打开方式设置成“火小兔.exe”；下载“test.机关”，将其打开方式设为“机关区.exe”
