@@ -4,7 +4,7 @@ Date of Certification: **06/26/2024**
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 费用说明
 1. 本平台完全免费——如有收费，均为诈骗
-2. 完全欢迎大家为本平台编写自己的教程与教材——如果觉得项目有意思，请给个⭐⭐支持支持~
+2. 完全欢迎大家为本平台编写自己的教程与教材（我们不从该项目的该过程中收取任何提成）——如果觉得项目有意思，请给个⭐⭐支持支持~
 3. 本平台的使用无需联网（如果要开通AI功能，请准备好API，AI需要联网）
 # 新手使用指南
 1. 仅需下载“机关区.exe”和“火小兔.exe”，将其移动到您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
