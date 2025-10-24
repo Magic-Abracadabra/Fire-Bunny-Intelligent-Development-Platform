@@ -211,6 +211,10 @@ def 查找_(目标):
 	打出_(目标)
 
 ## 点击指定位置
+def 获取鼠标位置():
+	ppc.copy("（{}，{}）".format(*pag.position()))
+获取鼠标位置 = 捕获鼠标位置
+
 def 鼠标移到_(长, 宽):
 	pag.moveTo(长, 宽)
 def 点击_(长, 宽):
@@ -259,4 +263,5 @@ def 回车():
 	pag.press('enter')
 
 def 最大化():
+
 	pag.hotkey('win', 'up')
