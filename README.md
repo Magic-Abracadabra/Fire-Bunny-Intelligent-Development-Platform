@@ -7,7 +7,7 @@ Date of Certification: **06/26/2024**
 2. 为促进中文计算机语言生态，特此完全开源，我们完全欢迎大家为本平台编写自己的教程与教材（我们不从本平台的该过程中收取任何提成）——如果觉得项目有意思，用⭐支持一下~
 3. 本平台的使用无需联网（如果要开通AI功能，请准备好API，AI需要联网）
 # 新手使用指南
-1. 仅需下载“机关区.exe”和“火小兔.exe”，将其移动到您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
+1. 仅需下载“[机关区.exe](https://365.kdocs.cn/l/ctnwU3RK8ic6)”和“[火小兔.exe](https://365.kdocs.cn/l/cmzGMksflIs7)”，将其移动到您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
 2. [使用方法一](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)——打开“机关区.exe”，直接用本平台的中文命令（单独打开“火小兔.exe”是看不到界面的，这是机关区与火小兔的区别——火小兔执行中文命令的时候是静默的）
 3. 使用方法二
    * 预备工作：下载“test.秘籍”，把它的打开方式设置成“火小兔.exe”；下载“test.机关”，将其打开方式设为“机关区.exe”（一般在“属性”里面设置会永久生效）
