@@ -6,13 +6,8 @@ Date of Certification: **06/26/2024**
 1. 本平台完全免费——如有收费，均为诈骗
 2. 为促进中文计算机语言生态，特此完全开源，我们完全欢迎大家为本平台编写自己的教程与教材（我们不从本平台的该过程中收取任何提成）——如果觉得项目有意思，用⭐支持一下~
 3. 本平台的使用无需联网（如果要开通AI功能，请准备好API，AI需要联网）
-# 核心程序及其下载地址
-## 国内下载
-1. [机关区](https://www.123865.com/s/q00jVv-j1z8d)
-2. [火小兔](https://www.123865.com/s/q00jVv-T4z8d)
-## 其它下载
-1. [机关区](https://1drv.ms/u/c/e71f7cb7a5a0683b/EXWA5TcnTVdBkV3n1A9LNDoBxSnkhxVkwNPEvhka0ADxoA?e=Z2ti9F)
-2. [火小兔](https://1drv.ms/u/c/e71f7cb7a5a0683b/EYbe-IL_H7REjG7EGmUAyuABtKUsNr4EUIf-JlWyBnPBQA?e=7esYKX)
+# 安装包唯一官方下载地址
+[GitHub](https://release-assets.githubusercontent.com/github-production-release-asset/1080385204/e9532b87-1595-4593-a5bb-f70aa422f18c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-10-26T13%3A55%3A43Z&rscd=attachment%3B+filename%3Ddefault.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-10-26T12%3A55%3A00Z&ske=2025-10-26T13%3A55%3A43Z&sks=b&skv=2018-11-09&sig=QifrKpyFfKgDBAiV7fu%2BoZV2ZtVcf5ip%2BCzEWHHAx3Q%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2MTQ4NzYwMCwibmJmIjoxNzYxNDg0MDAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9sbOPrk3T7QkVDy7_vCPeFV_Z5QG-voxg3JpcskEFME&response-content-disposition=attachment%3B%20filename%3Ddefault.exe&response-content-type=application%2Foctet-stream)
 # 新手使用指南
 1. 仅需下载“机关区.exe”和“火小兔.exe”，将其移动到您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
 2. [使用方法一](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)——打开“机关区.exe”，直接用本平台的中文命令（单独打开“火小兔.exe”是看不到界面的，这是机关区与火小兔的区别——火小兔执行中文命令的时候是静默的）
