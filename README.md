@@ -8,8 +8,8 @@ Date of Certification: **06/26/2024**
 3. 本平台的使用无需联网（如果要开通AI功能，请准备好API，AI需要联网）
 # 核心程序及其下载地址
 ## 国内下载
-1. [机关区](https://down.bc-cn.net/12941.html)
-2. [火小兔](https://down.bc-cn.net/12942.html)
+1. [机关区](https://www.123865.com/s/q00jVv-j1z8d)
+2. [火小兔](https://www.123865.com/s/q00jVv-T4z8d)
 ## 其它下载
 1. [机关区](https://1drv.ms/u/c/e71f7cb7a5a0683b/EXWA5TcnTVdBkV3n1A9LNDoBxSnkhxVkwNPEvhka0ADxoA?e=Z2ti9F)
 2. [火小兔](https://1drv.ms/u/c/e71f7cb7a5a0683b/EYbe-IL_H7REjG7EGmUAyuABtKUsNr4EUIf-JlWyBnPBQA?e=7esYKX)
