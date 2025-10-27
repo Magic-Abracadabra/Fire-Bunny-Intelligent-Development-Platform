@@ -4,10 +4,11 @@ import sys
 if len(sys.argv)==1:
 	机关区()
 else:
-	with open(sys.argv[1]) as 秘籍:
+	with open(sys.argv[1], encoding='utf-8') as 秘籍:
 		咒语 = 秘籍.read()
 	try:
 		执行_(咒语)
 	except:
 		pag.alert('【ToT】', '机关区')
+
 	秘籍.close()
