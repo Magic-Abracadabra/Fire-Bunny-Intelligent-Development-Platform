@@ -2,6 +2,8 @@
 Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
+# 软件定位
+教育软件、简易低代码RPA工具——一款使用中文命令快速搭建自动化办公组件的办公软件。
 # 费用说明
 1. 本平台完全免费——如有收费，均为诈骗
 2. 为促进中文计算机语言生态，特此完全开源，我们完全欢迎大家为本平台编写自己的教程与教材（我们不从本平台的该过程中收取任何提成）——如果觉得项目有意思，用⭐支持一下~
