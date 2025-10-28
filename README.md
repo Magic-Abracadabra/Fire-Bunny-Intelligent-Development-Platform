@@ -1,4 +1,5 @@
 # Fire Bunny Intelligent Development Platform
+It's our first step/project of the [Office Agents and Their Incremental Learning Framework](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework) series.
 Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
