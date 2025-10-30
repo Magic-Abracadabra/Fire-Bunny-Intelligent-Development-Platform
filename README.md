@@ -3,6 +3,9 @@ It's our first step/project of the [Office Agents and Their Incremental Learning
 Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
+# 官方安装包下载地址
+[GitHub](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/安装包/install.exe)
+
 # 关键词
 1. 教育软件（可用于教培行业）
 2. 自动化办公小工具（中文高级计算机语言→RPA）
@@ -28,8 +31,6 @@ Date of Certification: **06/26/2024**
 1. 我们不从中收取费用，但是我们上架的部分平台可能会（这不在我们可控的范围内）
 2. 为促进中文计算机语言生态，特此完全开源，我们完全欢迎大家为本平台编写自己的教程与教材（我们不从本平台的该过程中收取任何提成）——如果觉得项目有意思，用⭐支持一下~
 
-# 官方安装包下载地址
-[GitHub](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/安装包/install.exe)
 # 新手使用指南
 1. 仅需下载安装包，根据引导将其安装在您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
 2. [使用方法一](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)——打开“机关区.exe”，直接用本平台的中文命令（单独打开“火小兔.exe”是看不到界面的，这是机关区与火小兔的区别——火小兔执行中文命令的时候是静默的）
