@@ -34,6 +34,10 @@ Date of Certification: **06/26/2024**
 # 新手使用指南
 1. 仅需下载安装包，根据引导将其安装在您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
 2. [使用方法一](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)——打开“机关区.exe”，直接用本平台的中文命令（单独打开“火小兔.exe”是看不到界面的，这是机关区与火小兔的区别——火小兔执行中文命令的时候是静默的）
+<img width="960" height="540" alt="00" src="https://github.com/user-attachments/assets/9473354d-8431-427e-978a-2f8e16942465" />
+<img width="960" height="540" alt="01" src="https://github.com/user-attachments/assets/d33f2fe3-d327-4bad-b7a6-48e5b203cb89" />
+<img width="960" height="540" alt="02" src="https://github.com/user-attachments/assets/b6d06853-ecde-4a11-9c36-132595f932df" />
+
 3. 使用方法二
    * 预备工作：下载“test.秘籍”，把它的打开方式设置成“火小兔.exe”；下载“test.机关”，将其打开方式设为“机关区.exe”（一般在“属性”里面设置会永久生效）
    * 编写“.秘籍”与“.机关”后缀的脚本文件（同样地，使用本平台的中文命令，比如用记事本打开它们），双击即可运行
