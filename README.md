@@ -13,7 +13,7 @@ Date of Certification: **06/26/2024**
 2. 为促进中文计算机语言生态，特此完全开源，我们完全欢迎大家为本平台编写自己的教程与教材（我们不从本平台的该过程中收取任何提成）——如果觉得项目有意思，用⭐支持一下~
 3. 本平台的使用无需联网（如果要开通AI功能，请准备好API，AI需要联网）
 # 官方安装包下载地址
-[GitHub](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/%E5%AE%89%E8%A3%85%E5%8C%85/install.msix)
+[GitHub](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/火小兔智慧开发平台/install.exe)
 # 新手使用指南
 1. 仅需下载安装包，根据引导将其安装在您常常把程序安装到的位置，比如“C:\Program Files\FBIDP”
 2. [使用方法一](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/blob/main/Demo.mp4)——打开“机关区.exe”，直接用本平台的中文命令（单独打开“火小兔.exe”是看不到界面的，这是机关区与火小兔的区别——火小兔执行中文命令的时候是静默的）
