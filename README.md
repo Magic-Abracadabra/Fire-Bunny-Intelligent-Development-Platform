@@ -4,7 +4,7 @@ Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 官方安装包下载地址
-<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
+<script type="module" src="https://get.microsoft.com/images/zh-cn%20dark.svg"></script>
 <ms-store-badge
 	productid="9pllc5bf668t"
 	window-mode="full"
