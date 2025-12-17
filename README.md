@@ -4,7 +4,7 @@ Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 官方安装包唯一下载地址
-<a href="" title="微软应用商店"><img src="https://get.microsoft.com/images/zh-cn%20light.svg" alt="微软应用商店" title="微软应用商店"></a>
+<a href="file://ms-windows-store://pdp?productid=9pllc5bf668t" title="微软应用商店"><img src="https://get.microsoft.com/images/zh-cn%20light.svg" alt="微软应用商店" title="微软应用商店"></a>
 
 # 关键词
 1. 教育软件（可用于教培行业）
