@@ -4,8 +4,15 @@ Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 官方安装包下载地址
-1. [微软应用商店](https://apps.microsoft.com/detail/9pllc5bf668t?hl=zh-CN&gl=CN)
-2. [https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/安装包/install.exe](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/releases/download/安装包/install.exe)
+<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
+<ms-store-badge
+	productid="9pllc5bf668t"
+	window-mode="full"
+	theme="dark"
+	size="large"
+	language="zh-cn"
+	animation="on">
+</ms-store-badge>
 
 # 关键词
 1. 教育软件（可用于教培行业）
