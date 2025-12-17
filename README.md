@@ -3,16 +3,8 @@ It's our first step/project of the [Office Agents and Their Incremental Learning
 Date of Certification: **06/26/2024**
 
 **No illegal use is allowed!** Free for commercial and academic applications.
-# 官方安装包下载地址
-<script type="module" src="https://get.microsoft.com/images/zh-cn%20dark.svg"></script>
-<ms-store-badge
-	productid="9pllc5bf668t"
-	window-mode="full"
-	theme="dark"
-	size="large"
-	language="zh-cn"
-	animation="on">
-</ms-store-badge>
+# 官方安装包唯一下载地址
+<a href="https://apps.microsoft.com/badge/9pllc5bf668t" title="微软应用商店"><img src="https://get.microsoft.com/images/zh-cn%20dark.svg" alt="微软应用商店" title="微软应用商店"></a>
 
 # 关键词
 1. 教育软件（可用于教培行业）
