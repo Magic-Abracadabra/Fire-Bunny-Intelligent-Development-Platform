@@ -5,6 +5,11 @@ Date of Certification: **06/26/2024**
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 官方安装包唯一下载地址
 <a href="https://apps.microsoft.com/detail/9pllc5bf668t" title="微软应用商店"><img src="https://get.microsoft.com/images/zh-cn%20light.svg" alt="微软应用商店" title="微软应用商店"></a>
+或者使用命令行安装：
+```cmd
+store install 9pllc5bf668t
+```
+打开一个文本编辑器或者IDLE，复制这段代码，然后粘贴为文本内容。用.bat或者.cmd后缀保存它，双击运行。
 # 官方教程
 [火小兔的两种交互方式与全部命令](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform/wiki/火小兔的两种交互方式与全部命令)
 
