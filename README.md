@@ -5,6 +5,7 @@ Date of Certification: **06/26/2024**
 **No illegal use is allowed!** Free for commercial and academic applications.
 # 官方安装包唯一下载地址
 <a href="https://apps.microsoft.com/detail/9pllc5bf668t" title="微软应用商店"><img src="https://get.microsoft.com/images/zh-cn%20light.svg" alt="微软应用商店" title="微软应用商店"></a>
+
 或者使用命令行安装：
 ```cmd
 store install 9pllc5bf668t
